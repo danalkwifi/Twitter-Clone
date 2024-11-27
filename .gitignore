@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# Optional npm cache directory
+.npm/
+
+# Yarn
+.yarn/
+.pnp.*
+
+# Test coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Production
+*.env.production
+
+# Others
+*.bak
+*.orig
+*.lock
